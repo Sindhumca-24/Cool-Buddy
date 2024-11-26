@@ -1,0 +1,13 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is 5CC1-68AD
+
+ Directory of C:\Cool-Buddy
+
+26-11-2024  03:39 PM    <DIR>          .
+26-11-2024  02:47 PM               443 a.txt
+26-11-2024  02:27 PM                 0 dilisting.txt
+26-11-2024  02:19 PM                31 README.md
+26-11-2024  02:47 PM                 0 sample.txt
+26-11-2024  03:39 PM                 0 t1.txt
+               5 File(s)            474 bytes
+               1 Dir(s)  39,234,932,736 bytes free
